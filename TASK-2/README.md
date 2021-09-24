@@ -10,4 +10,4 @@ Creating a web application using create-react-app. The application should have f
 4. Show a loader while the API fetches the data.
 5. Use custom CSS/styled-components/SASS
 
-Visit Website :https://angry-curran-e5e284.netlify.app/
+Visit Website :https://adityatask-2lgmvip.netlify.app/
